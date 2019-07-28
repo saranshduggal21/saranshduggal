@@ -1,0 +1,2 @@
+# saranshduggal
+Using HTML and CSS, I was able to create a website that summarizes my skills and achievements to date. It includes various stylistic components that improve the aesthetic of the website. Examples include, the typewriter effect, numerous hover effects and the parallax effect. By incorporating Bootstrap, the website can be viewed on devices of all sizes. Website link: https://saranshduggal21.github.io/saranshduggal/
