@@ -8,6 +8,8 @@
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="typed.min.js"></script>
 <link rel = "stylesheet" href = "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
@@ -19,7 +21,15 @@
         <div class = "profile-pic1">
           <a href = "#"><img src = "PP3.png"></a>
           <h1> Saransh Duggal </h1>
-          <h3> An aspiring engineer, innovator and catalyst for change. </h3>
+          <h3> I am <span class = "typing"></span>
+          <script type = "text/javascript">
+              var typed = new Typed('.typing', {
+              strings: ["a Technology Enthusiast.", "an Aspiring Engineer.", "a Leader.", "an Innovator."],
+              loop: true,
+              typeSpeed: 55
+              });
+          </script>
+          </h3>
         </div>
       </div>
       <div class = "scroll-btn">
