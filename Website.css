@@ -383,7 +383,7 @@ body
   border-bottom-left-radius: 0px;
   border-top-left-radius: 50px;
   border-bottom-right-radius: 50px;
-  transition: 1s;
+  transition: 0.75s;
   transform: rotateY(360deg);
   height: 250px;
 }
